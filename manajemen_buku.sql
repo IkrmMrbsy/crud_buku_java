@@ -1,6 +1,6 @@
 
-CREATE DATABASE IF NOT EXISTS manajemen_buku;
-USE manajemen_buku;
+CREATE DATABASE IF NOT EXISTS perpustakaan;
+USE perpustakaan;
 
 CREATE TABLE IF NOT EXISTS buku (
     kode_buku VARCHAR(10) PRIMARY KEY,
